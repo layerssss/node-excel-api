@@ -3,7 +3,7 @@ path = require 'path'
 
 {
   Workbook
-} = require '../lib/excel'
+} = require '../'
 
 describe 'parser-basic', ->
   before (cb)->

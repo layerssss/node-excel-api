@@ -1,2 +1,2 @@
 require('iced-coffee-script');
-module.export = require('./lib/excel');
+module.exports = require('./lib/excel');

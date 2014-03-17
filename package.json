@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/.bin/mocha --compilers iced:iced-coffee-script"
+    "test": "node_modules/.bin/iced --compile test && node_modules/.bin/mocha"
   },
   "author": "",
   "license": "BSD",
   "dependencies": {
     "java": "0.2.3",
-    "iced-coffee-script": "*"
+    "iced-coffee-script": ">=1.6.3-h"
   },
   "devDependencies":{
     "mocha": "*"

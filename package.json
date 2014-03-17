@@ -9,7 +9,7 @@
   "author": "",
   "license": "BSD",
   "dependencies": {
-    "java": "0.2.3",
+    "java": "~0.3.1",
     "iced-coffee-script": "~1.7.1"
   },
   "devDependencies":{

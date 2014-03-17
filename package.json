@@ -1,6 +1,6 @@
 {
   "name": "excel-api",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "BSD",
   "dependencies": {
     "java": "0.2.3",
-    "iced-coffee-script": ">=1.6.3-h"
+    "iced-coffee-script": "~1.7.1"
   },
   "devDependencies":{
     "mocha": "*"
